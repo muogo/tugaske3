@@ -58,6 +58,7 @@ img{
 }
 
 .box{
+    display: inline-block;
     margin-left: 3px;
     margin-right: 3px;
     background-color: rgb(89, 248, 9);
